@@ -11,5 +11,4 @@ Chatgpt-learning
 ### requests
 
 # Run Jupyter Lab Notebooks
-# Run Jupyter Lab Notebooks
 ### jupyter labs
