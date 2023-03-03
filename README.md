@@ -10,5 +10,8 @@ Chatgpt-learning
 ### openai
 ### requests
 
+# Credentials
+### Create your credentials on OpenAI site: https://platform.openai.com/
+
 # Run Jupyter Lab Notebooks
 ### jupyter labs
